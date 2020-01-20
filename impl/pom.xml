@@ -6,7 +6,7 @@
   <parent>
     <groupId>com.sample.maven.library</groupId>
     <artifactId>parent</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>${revision}${changelist}</version>
   </parent>
 
   <artifactId>impl</artifactId>
