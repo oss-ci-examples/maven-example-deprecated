@@ -6,11 +6,11 @@
   <groupId>com.sample.maven.library</groupId>
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
-  <version>${revision}${changelist}</version>
+  <version>0.0.1</version>
 
   <scm>
     <developerConnection>scm:git:git@github.com:mockitoguy/sample-maven-library.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>parent-0.0.1</tag>
   </scm>  
 
   <url>https://github.com/mockitoguy/sample-maven-library</url>
