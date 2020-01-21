@@ -7,6 +7,10 @@ See also:
  - Continuous delivery: https://continuousdelivery.com/
  - Semantic releases: https://semantic-release.gitbook.io/semantic-release/
  - Semantic Versioning: https://semver.org/
+ 
+ ## Inspiration
+ 
+Cloudbees folks came up with a continuous deployment for a Maven project with 2 beautiful features: First, no noisy version bump commits across the pom files. Second, the released version is clean - no timestamp, no git hash - just cleanly incremented version: https://www.cloudbees.com/blog/apache-maven-continuous-deliverydeployment-devoptics-teams-approach
 
  ## Status
 
